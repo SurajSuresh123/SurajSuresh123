@@ -1,4 +1,4 @@
-# 💫  Hi there, I am Suraj:
+# Hi there, I'm Suraj 👋:
 Welcome to my GitHub profile! I'm passionate about Full-Stack development, App Development, Machine Learning etc. and always eager to learn and contribute to exciting projects.<br>🌱 I’m currently learning ML<br>💬 Ask me about django, django rest, flutter<br>
 
 
